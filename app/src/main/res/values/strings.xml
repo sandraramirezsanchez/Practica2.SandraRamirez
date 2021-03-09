@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2.SandraRamirez</string>
+    <string name="hint_name">usuario</string>
+    <string name="pass">contraseña</string>
+    <string name="aceptar">aceptar</string>
+    <string name ="bienvenidos">Bienvenidos</string>
+
+</resources>
